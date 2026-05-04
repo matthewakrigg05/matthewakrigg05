@@ -1,13 +1,54 @@
-<h1 align="left">Hi, I'm Matt</h1>
-<h3 align="left">A computer science student and full-time data scientist</h3>
+<h1 align="left">Hi, I'm Matt 👋</h1>
+<h3 align="left">Computer Science Student | Full-Time Data Scientist</h3>
 
--  Currently, I am exploring a range of topics, with most being relevant to data science. Since completing university, I intend to work more on these projects given that I now have the time. I have many, many ideas, so watch this space...
+---
 
-- All of my projects are available here at [https://github.com/matthewakrigg05](https://github.com/matthewakrigg05)
+## About Me
+I'm a Computer Science undergraduate working as a **full-time data scientist**, with a strong interest in **software development and building real-world applications**.
 
-<h3 align="left">Where to find me:</h3>
-<p align="left">
-  LinkedIn: www.linkedin.com/in/matthewakrigg <br />
-  X: https://twitter.com/mattak05 <br />
-  Instagram: https://www.instagram.com/matthewakrigg/?hl=en <br />
-</p>
+I enjoy working across the full data workflow—from data collection and cleaning to analysis and insight generation—while continuously expanding into **software engineering and development-focused stacks**.
+
+- 📊 Working with data daily as part of my role  
+- 💻 Expanding into software development and full-stack skills  
+- 🧠 Interests: technology, psychology, productivity  
+- ⚡ Constantly building projects and exploring new ideas  
+
+---
+
+## Tech Stack
+- **Languages:** Python, SQL, Java, C#  
+- **Data:** Pandas, NumPy, data analysis & visualisation  
+- **Tools:** Git, GitHub, Excel  
+
+---
+
+##  Featured Project
+
+### 3rd Year Project
+A data-focused project applying **data science techniques to a real-world problem**.
+
+- Developed using Python and core data analysis libraries  
+- Worked with structured data to extract meaningful insights  
+- Covered the full pipeline: data cleaning → analysis → results  
+
+👉 View project:  
+[https://github.com/matthewakrigg05](https://github.com/matthewakrigg05)
+
+---
+
+## Current Focus
+- Building a stronger **project portfolio**
+- Developing **software engineering skills alongside data science**
+- Exploring more **practical, real-world data problems**
+
+---
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/matthewakrigg  
+- X (Twitter): https://twitter.com/mattak05  
+- Instagram: https://www.instagram.com/matthewakrigg  
+
+---
+
+## Note
+I have a lot of ideas, and I'm soon to be turning them into real, practical projects. Watch this space...
