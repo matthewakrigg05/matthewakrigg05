@@ -14,6 +14,7 @@ I enjoy working across the full data workflow—from data collection and cleanin
 
 Since recently completing university, I am getting back on top of my personal projects and building my own ideas. This is both for my own enjoyment, but also to enhance my skills
 and build more experience in development, analysis and modelling.
+
 ---
 
 ## Tech Stack
