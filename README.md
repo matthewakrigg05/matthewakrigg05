@@ -4,15 +4,16 @@
 ---
 
 ## About Me
-I'm a Computer Science undergraduate working as a **full-time data scientist**, with a strong interest in **software development and building real-world applications**.
+I'm a Computer Science undergraduate working as a **full-time data scientist**, with a strong interest in software development and building real-world applications.
 
-I enjoy working across the full data workflow—from data collection and cleaning to analysis and insight generation—while continuously expanding into **software engineering and development-focused stacks**.
+I enjoy working across the full data workflow—from data collection and cleaning to analysis and insight generation—while continuously expanding into software engineering and development-focused stacks.
 
 - 📊 Working with data daily as part of my role  
 - 💻 Expanding into software development and full-stack skills  
-- 🧠 Interests: technology, psychology, productivity  
-- ⚡ Constantly building projects and exploring new ideas  
+- 🧠 Interests: technology, psychology, productivity   
 
+Since recently completing university, I am getting back on top of my personal projects and building my own ideas. This is both for my own enjoyment, but also to enhance my skills
+and build more experience in development, analysis and modelling.
 ---
 
 ## Tech Stack
