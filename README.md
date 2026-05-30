@@ -8,9 +8,9 @@ I'm a Computer Science undergraduate working as a **full-time data scientist**, 
 
 I enjoy working across the full data workflow—from data collection and cleaning to analysis and insight generation—while continuously expanding into software engineering and development-focused stacks.
 
-- 📊 Working with data daily as part of my role  
-- 💻 Expanding into software development and full-stack skills  
-- 🧠 Interests: technology, psychology, productivity   
+- Working with data daily as part of my role  
+- Expanding into software development and full-stack skills  
+- Unrelated Interests: Chess, football and reading   
 
 Since recently completing university, I am getting back on top of my personal projects and building my own ideas. This is both for my own enjoyment, but also to enhance my skills
 and build more experience in development, analysis and modelling.
@@ -18,9 +18,9 @@ and build more experience in development, analysis and modelling.
 ---
 
 ## Tech Stack
-- **Languages:** Python, SQL, Java, C#  
+- **Languages:** Python, SQL, C# (in progress!)  
 - **Data:** Pandas, NumPy, data analysis & visualisation  
-- **Tools:** Git, GitHub, Excel  
+- **Tools:** Git, GitHub
 
 ---
 
@@ -41,7 +41,7 @@ A data-focused project applying **data science techniques to a real-world proble
 ## Current Focus
 - Building a stronger **project portfolio**
 - Developing **software engineering skills alongside data science**
-- Exploring more **practical, real-world data problems**
+- Exploring more **practical, real-world techniques**
 
 ---
 
